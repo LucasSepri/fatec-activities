@@ -1,0 +1,20 @@
+1 - O que estes comandos fazem?
+
+• int numero;
+• Console.WriteLine(“escreva um numero:”); 
+• numero = int.Parce(Console.ReadLine());
+• numero = numero + 1;
+• Console.ReadKey(); 
+
+
+2 - Escreva um programa que armazene em variaveis o seu nome, sua idade e a cidade onde você mora.
+
+3 - crie um programa que calcule Soma, Subtração, Divisão e Multiplicação de 2 números digitados pelo o usuario.
+
+4 – Crie um programa que calcule a area de um quadrado digitados pelo o usuario.
+
+5 - Faça um programa que consiga calcular a Média Aritmética de 3 notas digitadas pelo usuario. 
+Formula: "media = (nota1 + nota2 + nota3)/3".
+
+
+

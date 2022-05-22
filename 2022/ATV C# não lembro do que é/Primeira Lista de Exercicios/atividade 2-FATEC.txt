@@ -1,0 +1,47 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace exercises_Csharp
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            //2–Crie um programa e fluxograma que permita ao usuário entrar com dois números.
+            //Executar as quatro operações com esses dois números(Soma,Subtração,multiplicação,divisão).
+            //Nãose esquecer de mostrar as respostas na tela.
+
+
+            int n1, n2, resultado;
+            Console.WriteLine("digite um numero");
+            n1 = int.Parse(Console.ReadLine());
+            Console.WriteLine("digite outro numero");
+            n2 = int.Parse(Console.ReadLine());
+            
+            Console.Write("Resultado somando dá:");
+            resultado = n1 + n2;
+            Console.WriteLine(resultado);
+
+            Console.Write("Resultado subritando dá:");
+            resultado = n1 - n2;
+            Console.WriteLine(resultado);
+
+            Console.Write("Resultado multiplicando dá:");
+            resultado = n1 * n2;
+            Console.WriteLine(resultado);
+
+
+            Console.Write("Resultado dividindo dá:");
+            resultado = n1 / n2;
+            Console.WriteLine(resultado);
+
+
+
+
+
+        }
+    }
+}
