@@ -1,0 +1,91 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace exercises_Csharp
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            //7- Escreva um codigo em c# que o usuario entre com tres valores e faca uma formula de bhaskara. Delta= (b*b)-4 *a*c
+            
+
+
+            int a, b, c, delta;
+            Console.WriteLine("digite um valor");
+            a = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("digite outro valor");
+            b = int.Parse(Console.ReadLine());
+
+
+            Console.WriteLine("digite outro valor");
+            c = int.Parse(Console.ReadLine());
+
+            delta = (b * b) -4 * a * c;
+            Console.WriteLine(delta);
+
+
+
+
+
+
+               
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+
+
+
+
+
+
+
+
+
+        }
+    }
+}

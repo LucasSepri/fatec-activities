@@ -1,0 +1,39 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace exercises_Csharp
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+
+
+            //5) Escreva um código para ler um valor (do teclado) e escrever (na tela) o seu antecessor.
+            
+
+            int valor,var ;
+            Console.WriteLine("digite um valor");
+            valor = int.Parse(Console.ReadLine());
+            var = valor - 1;
+            Console.WriteLine(var);
+
+
+
+
+            
+
+
+
+
+
+
+
+
+
+        }
+    }
+}

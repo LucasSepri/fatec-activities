@@ -1,0 +1,19 @@
+using System;
+					
+public class Program
+{
+	public static void Main()
+	{
+		Double a, b, c, med; 
+		Console.WriteLine("Escreva as três notas.");
+		
+		a = Convert.ToDouble(Console.ReadLine());
+		b = Convert.ToDouble(Console.ReadLine());
+		c = Convert.ToDouble(Console.ReadLine());
+		
+		
+		med = (a * 2 + b * 3 + c * 5) / 10;
+		Console.WriteLine("\n");
+		Console.WriteLine("A sua média é igual a: " + med);
+	}
+}

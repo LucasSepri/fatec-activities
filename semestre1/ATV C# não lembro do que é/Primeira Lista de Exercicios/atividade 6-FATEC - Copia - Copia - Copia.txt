@@ -1,0 +1,46 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace exercises_Csharp
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+
+
+            //6 Escreva um programa para ler as dimensoesde um retangulo (base e altura), calcular e escrever a area do retangulo
+
+
+            int a, b, resultado;
+            Console.WriteLine("digite a base");
+            a = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("digite a altura");
+            b = int.Parse(Console.ReadLine());
+
+            resultado = a * b;
+            Console.WriteLine(resultado);
+
+
+
+
+
+
+
+            
+
+
+
+
+
+
+
+
+
+        }
+    }
+}

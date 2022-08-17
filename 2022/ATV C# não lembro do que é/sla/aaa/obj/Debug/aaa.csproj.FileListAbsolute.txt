@@ -1,8 +1,0 @@
-C:\Users\lucas\OneDrive\Área de Trabalho\aaa\aaa\bin\Debug\aaa.exe.config
-C:\Users\lucas\OneDrive\Área de Trabalho\aaa\aaa\bin\Debug\aaa.exe
-C:\Users\lucas\OneDrive\Área de Trabalho\aaa\aaa\bin\Debug\aaa.pdb
-C:\Users\lucas\OneDrive\Área de Trabalho\aaa\aaa\obj\Debug\aaa.csproj.AssemblyReference.cache
-C:\Users\lucas\OneDrive\Área de Trabalho\aaa\aaa\obj\Debug\aaa.csproj.SuggestedBindingRedirects.cache
-C:\Users\lucas\OneDrive\Área de Trabalho\aaa\aaa\obj\Debug\aaa.csproj.CoreCompileInputs.cache
-C:\Users\lucas\OneDrive\Área de Trabalho\aaa\aaa\obj\Debug\aaa.exe
-C:\Users\lucas\OneDrive\Área de Trabalho\aaa\aaa\obj\Debug\aaa.pdb

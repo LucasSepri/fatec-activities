@@ -1,0 +1,8 @@
+C:\Users\lucas\OneDrive\Área de Trabalho\Atividade12_31-05-22\Atividade12_31-05-22\bin\Debug\Atividade12_31-05-22.exe.config
+C:\Users\lucas\OneDrive\Área de Trabalho\Atividade12_31-05-22\Atividade12_31-05-22\bin\Debug\Atividade12_31-05-22.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\Atividade12_31-05-22\Atividade12_31-05-22\bin\Debug\Atividade12_31-05-22.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Atividade12_31-05-22\Atividade12_31-05-22\obj\Debug\Atividade12_31-05-22.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Atividade12_31-05-22\Atividade12_31-05-22\obj\Debug\Atividade12_31-05-22.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Atividade12_31-05-22\Atividade12_31-05-22\obj\Debug\Atividade12_31-05-22.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Atividade12_31-05-22\Atividade12_31-05-22\obj\Debug\Atividade12_31-05-22.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\Atividade12_31-05-22\Atividade12_31-05-22\obj\Debug\Atividade12_31-05-22.pdb
